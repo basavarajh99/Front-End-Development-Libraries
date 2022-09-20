@@ -1,4 +1,3 @@
 # Drum-Machine
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Bash17/pen/jOxmYwo](https://codepen.io/Bash17/pen/jOxmYwo).
-
+![Capture](https://user-images.githubusercontent.com/106008685/191210567-473d9855-5b5d-4966-8d8b-f82f43dab60f.PNG)
